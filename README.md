@@ -1,2 +1,4 @@
 # swimming-pool-detector
-Computer vision and machine learning based project helps in identifying swimming pools from satellite images. Practically can be used to detect water sources.
+
+
+you will have to run the notebook and then download the weights from drive and then put all that stuff in the same folder
